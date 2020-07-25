@@ -1,0 +1,14 @@
+/* * {
+  box-sizing: border-box;
+ }  */
+  
+div {
+  border: 2px solid blueviolet;
+  width: 300px;
+  height: 300px;
+  float: left;
+}
+
+section {
+  width: 900px;
+}
