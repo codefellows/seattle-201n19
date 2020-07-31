@@ -35,8 +35,14 @@ while (i < vipArray.length){
 }
 
 // Truthy/Falsey
-var compareValue =;
-var otherValue = null;
+// falsey value examples
+// empty string ''
+// null
+// 0 (the integer)
+// false
+
+var compareValue = null;
+// var otherValue = null;
 
 console.log(compareValue);
 
@@ -70,3 +76,6 @@ console.log((c == d)); // true
   // a <= b
   // a != b
   // a !== b
+
+
+console.log(`hello world`);

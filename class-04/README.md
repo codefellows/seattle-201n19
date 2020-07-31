@@ -1,5 +1,30 @@
 # HTML Links, JS Functions, and Intro to CSS Layout
 
+
+## Feedback
+
+Positives:
+- I really really appreciate the instructor and the TAs they are knowledgeable and are quick to help. The lessons have been well paced and the information is explained in full detail.  Excited to keep learning.
+
+- Stressful yet educational, I'm finding that I know more than I think
+
+- I appreciate how Ray and Ryan explain things and answer questions.  There is always a pause and a thought, it's nice that lectures don't sound like a script being read at me.  It makes it way easier to engage and understand.
+
+- The 'user stories'. Having a set of requirements to meet for the assignments definitely takes alot of work out of the planning stage and allows me to focus more on the actual writing of code.
+
+
+
+Room for improvement:
+- Smaller classes, 20 students in one class with two instructors is too many. Everyone has a question to their specific situation with only one person to answer each question; it slows down the progress of the class.
+
+- Better Pacing in 201
+
+- I would like more critical feedback when I submit a project, I understand I'm a beginner and I promise my feelings won't get hurt. Maybe what I submitted was ok for the level I'm at, but maybe add a few tips or what the industry would like to see.
+
+- Dedicated setup time for those who didn't take 102
+
+
+
 ## Learning Objectives
 
 As a result of completing Lecture 4 of Code 201, students will:
