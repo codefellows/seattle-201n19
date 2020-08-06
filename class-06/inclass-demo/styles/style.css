@@ -1,0 +1,13 @@
+* {
+  box-sizing: border-box;
+}
+
+div {
+  text-align: center;
+  border: 5px solid blueviolet;
+  margin-top: 10px;
+}
+
+img { 
+  height: 350px;
+}
