@@ -1,3 +1,21 @@
-* {
-  font-family: Arial, sans-serif;
+body {
+  margin: 0px auto;
+  width: 80%;
+  text-align: center;
+} 
+ 
+td {
+  background-color: lightblue;
+
+} 
+
+th {
+  background-color: lavender;
+
+} 
+
+table {
+  margin-bottom:  100px;
+  border-spacing: 5px;
+
 }
