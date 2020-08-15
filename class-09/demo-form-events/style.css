@@ -1,0 +1,48 @@
+section:first-child {
+  margin-bottom: 20px;;
+  border: 3px solid purple;
+  text-align: center;
+}
+
+article {
+  margin: 20px;
+  line-height: 200px;
+  height: 200px;
+  display: inline-block;
+  width: 200px;
+  text-align-last: center;
+  font-size: 30px;
+  font-weight: bold;
+  border: 1px solid purple
+}
+
+p {
+  border-bottom:1px solid black;
+}
+
+#box-one {
+  background-color: aqua;
+}
+
+#box-two {
+  background-color: bisque;
+}
+
+#box-three {
+  background-color: cornflowerblue;
+}
+
+form {
+  border: 3px solid blue;
+  padding: 20px;
+}
+
+input {
+  display: block;
+  margin-bottom: 25px;
+}
+
+select {
+  display: block;
+  margin-bottom: 25px;
+}
