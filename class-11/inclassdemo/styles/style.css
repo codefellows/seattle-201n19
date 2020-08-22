@@ -1,0 +1,11 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-color: bisque;
+}
+
+img {
+  height: 350px;
+}
