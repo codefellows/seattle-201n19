@@ -1,0 +1,8 @@
+/* make responsive -  position: relative; height:40vh; width:80vw */
+* {
+  background-color: bisque;
+}
+canvas {
+  height:600;
+  width: 960px;
+}
