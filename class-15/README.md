@@ -1,17 +1,15 @@
 # Code 201 Review, Code 301 Preview, and Project Week Kickoff
 
-<a id="top"></a>
-
 ## Lecture
 
 ## Today's Schedule
 
 - Announcements
-  - Reminder: weekly surveys will go out today
-- Discuss upcoming Career Coaching assignments
-- Code 201 Review *[60 minutes]*
 - [Code 301 Preview](#301) *[30 minutes]*
 - [Final Project Overview](#project) *[60 minutes]*
+- Project Groups!
+- 11a.m. : Psychological Safety (Roger Huba)
+- Partner Power Hour @ 12:15p w/ Kat Cosgrove (CI/CD)
 
 ### Learning Objectives
 
