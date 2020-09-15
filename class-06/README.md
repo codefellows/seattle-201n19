@@ -2,6 +2,22 @@
 
 <a id="top"></a>
 
+## Weekly Feedback
+
+### Cons
+
+- The learning journals are pretty lame. If I wanted to write to someone about my coding progress, I'd send a letter to my decrepit grandmother in West Virginia.  If we have them why not make them optional and not graded.
+
+
+### Pros
+
+- The Labs and time spent in Remo with my teammates.
+
+- The coding problems were awesome! Totally improve my understanding of functions and gave me a sneak peek of whats ahead. 
+
+- I didn't think I would need the accountability partners, but one of them recently reached out to me for help which made me realize this could be a good way to network.
+
+
 ## Lecture
 
 ## Learning Objectives

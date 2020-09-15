@@ -1,6 +1,41 @@
 
 # CSS Animations; Intermediate JS Topics; Using Local Storage to Share Data Between Two Pages
 
+
+## Rest of the Course
+
+- The next few days...
+    - Wed (9/2)
+        - Lab 14: Shopping Cart (until 8pm)
+    - Thur (9/3)
+        * Lab 14: Shopping Cart (until 8pm)
+        * Lab 15b: BusMall
+    - Fri (9/4)
+        * 301 entrance exam (unlocked now, due 9/12)
+    - Sat (9/5)
+        * Last Lecture Day!  Announce project groups, and get started on Lab: 15a - Merge Conflicts
+        * 11am - Roger w/ Psychological Safety
+        * 12:15p - PPH
+        * Rest of day - Project Prep 1-4
+          * Project idea approval
+    - Mon (9/7)
+        * Project kickoff
+        * Finish lingering project prep assignments
+        * Project approvals
+
+
+## Project Ideas
+
+  # Quizzes (wilderness survival, escape room, trivia)
+  # Choose Your Own Adventure
+  # Artwork Recommendation
+  # Guessing Game
+  # Green transit app
+  # Recipes
+  # Tic Tac Toe
+  # Chore wheel/checklist
+
+
 ## Lecture
 
 ### Learning Objectives
